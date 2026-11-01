@@ -1,0 +1,27 @@
+{
+  "cash_balance": 500500.0,
+  "initial_capital": 500000.0,
+  "holdings": {},
+  "realized_pnl": 500.0,
+  "orders": [
+    {
+      "timestamp": "2026-11-01 01:48:33",
+      "symbol": "HCLTECH.NS",
+      "action": "BUY",
+      "quantity": 10,
+      "price": 1800.0,
+      "total_value": 18000.0,
+      "status": "FILLED"
+    },
+    {
+      "timestamp": "2026-11-01 01:48:33",
+      "symbol": "HCLTECH.NS",
+      "action": "SELL",
+      "quantity": 10,
+      "price": 1850.0,
+      "total_value": 18500.0,
+      "pnl": 500.0,
+      "status": "FILLED"
+    }
+  ]
+}
